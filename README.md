@@ -13,7 +13,7 @@ This web application simplifies the process of accommodating groups in hostels. 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com//PrakritiManocha/Web-Dev-Task
+   git clone https://github.com/PrakritiManocha/Web-Dev-Task.git
    cd hospitality_app
    ```
 
